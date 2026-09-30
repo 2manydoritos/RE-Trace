@@ -1,0 +1,14 @@
+Memory addresses, item offsets and milestone flags in kh2rt/game_data.py and
+kh2rt/milestones.json, the world icons in kh2rt/icons and the KHMenu font in kh2rt/fonts, are derived from kh2-rando-tracker by equations19,
+licensed under the Apache License 2.0:
+https://github.com/KH2FM-Mods-equations19/kh2-rando-tracker
+(full license text: LICENSE-kh2-rando-tracker.txt)
+
+Changes made: memory addresses, item offsets and progress flags were ported from Kotlin to
+Python and converted to a JSON data file; world icons were resized and are recolored at runtime.
+
+The application icon (kh2rt/icons/app.ico, app.png) is a stopwatch built around the Hollow
+Bastion crown icon from the same kh2-rando-tracker project (Apache License 2.0).
+
+Kingdom Hearts and its characters, symbols and artwork are (c) Disney / Square Enix. RE:Trace is
+an unofficial fan tool and is not affiliated with or endorsed by them.

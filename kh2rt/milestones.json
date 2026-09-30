@@ -1,0 +1,716 @@
+[
+ {
+  "world": "Agrabah",
+  "name": "Abu Minigame",
+  "offset": 7541,
+  "mask": 16
+ },
+ {
+  "world": "Agrabah",
+  "name": "Chasm of Challenges",
+  "offset": 7541,
+  "mask": 32
+ },
+ {
+  "world": "Agrabah",
+  "name": "Treasure Room Fight",
+  "offset": 7540,
+  "mask": 4
+ },
+ {
+  "world": "Agrabah",
+  "name": "Twin Lords (Boss)",
+  "offset": 7538,
+  "mask": 4
+ },
+ {
+  "world": "Agrabah",
+  "name": "Carpet Magic Minigame",
+  "offset": 7545,
+  "mask": 8
+ },
+ {
+  "world": "Agrabah",
+  "name": "Genie Jafar (Boss)",
+  "offset": 7543,
+  "mask": 8
+ },
+ {
+  "world": "Agrabah",
+  "name": "Lexaeus (AS)",
+  "offset": 7459,
+  "mask": 16
+ },
+ {
+  "world": "Agrabah",
+  "name": "Lexaeus (Data)",
+  "offset": 7462,
+  "mask": 2
+ },
+ {
+  "world": "Atlantica",
+  "name": "Music Tutorial",
+  "offset": 7668,
+  "mask": 4
+ },
+ {
+  "world": "Atlantica",
+  "name": "Ursula's Revenge",
+  "offset": 7669,
+  "mask": 4
+ },
+ {
+  "world": "Atlantica",
+  "name": "A New Day is Dawning",
+  "offset": 7668,
+  "mask": 2
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Thresholder (Boss)",
+  "offset": 7477,
+  "mask": 4
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Beast Fight",
+  "offset": 7477,
+  "mask": 8
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Shadowstalker",
+  "offset": 7472,
+  "mask": 32
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Dark Thorn (Boss)",
+  "offset": 7472,
+  "mask": 64
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Dragoons Forced Fight",
+  "offset": 7482,
+  "mask": 1
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Xaldin (Boss)",
+  "offset": 7473,
+  "mask": 4
+ },
+ {
+  "world": "Beast's Castle",
+  "name": "Xaldin (Data)",
+  "offset": 7476,
+  "mask": 128
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "CoR Forced Fight 1",
+  "offset": 7460,
+  "mask": 32
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Steam Valves (CoR Skip)",
+  "offset": 7461,
+  "mask": 2
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "CoR Forced Fight 2",
+  "offset": 7460,
+  "mask": 128
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Last Chest of Cavern",
+  "offset": 7461,
+  "mask": 16
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Minnie Escort",
+  "offset": 7697,
+  "mask": 2
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Past Pete Fight",
+  "offset": 7728,
+  "mask": 8
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Windows of Time",
+  "offset": 7730,
+  "mask": 16
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Steamboat Fight",
+  "offset": 7730,
+  "mask": 64
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Pete (Boss)",
+  "offset": 7731,
+  "mask": 2
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Marluxia (AS)",
+  "offset": 7459,
+  "mask": 128
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Marluxia (Data)",
+  "offset": 7462,
+  "mask": 128
+ },
+ {
+  "world": "Disney Castle",
+  "name": "Lingering Will (Boss)",
+  "offset": 7700,
+  "mask": 4
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Candy Cane Lane Fight",
+  "offset": 7763,
+  "mask": 8
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Prison Keeper (Boss)",
+  "offset": 7762,
+  "mask": 8
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Oogie Boogie (Boss)",
+  "offset": 7763,
+  "mask": 2
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Lock, Shock, and Barrel",
+  "offset": 7764,
+  "mask": 64
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Retrieved Stolen Presents",
+  "offset": 7765,
+  "mask": 2
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Made Decoy Presents",
+  "offset": 7765,
+  "mask": 16
+ },
+ {
+  "world": "Halloween Town",
+  "name": "The Experiment (Boss)",
+  "offset": 7766,
+  "mask": 1
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Vexen (AS)",
+  "offset": 7459,
+  "mask": 8
+ },
+ {
+  "world": "Halloween Town",
+  "name": "Vexen (Data)",
+  "offset": 7462,
+  "mask": 1
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Bailey Gate Fight",
+  "offset": 7447,
+  "mask": 32
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Ansem's Study",
+  "offset": 7456,
+  "mask": 2
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Corridor Fight",
+  "offset": 7456,
+  "mask": 64
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Restoration Site Fight",
+  "offset": 7455,
+  "mask": 4
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Demyx (Boss)",
+  "offset": 7448,
+  "mask": 1
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Final Fantasy Fights",
+  "offset": 7449,
+  "mask": 4
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "1000 Heartless",
+  "offset": 7451,
+  "mask": 4
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Sephiroth (Boss)",
+  "offset": 7456,
+  "mask": 1
+ },
+ {
+  "world": "Hollow Bastion",
+  "name": "Demyx (Data)",
+  "offset": 7462,
+  "mask": 32
+ },
+ {
+  "world": "100 Acre Wood",
+  "name": "Entered Rabbit's House",
+  "offset": 7602,
+  "mask": 64
+ },
+ {
+  "world": "100 Acre Wood",
+  "name": "Entered Kanga's House",
+  "offset": 7603,
+  "mask": 64
+ },
+ {
+  "world": "100 Acre Wood",
+  "name": "Entered Spooky Cave",
+  "offset": 7604,
+  "mask": 32
+ },
+ {
+  "world": "100 Acre Wood",
+  "name": "Entered Starry Hill",
+  "offset": 7605,
+  "mask": 16
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Mission 3 (The Search)",
+  "offset": 7574,
+  "mask": 4
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Mountain Climb",
+  "offset": 7574,
+  "mask": 32
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Town Cave Fight",
+  "offset": 7575,
+  "mask": 1
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Summit Fight",
+  "offset": 7575,
+  "mask": 8
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Shan Yu (Boss)",
+  "offset": 7570,
+  "mask": 4
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Riku",
+  "offset": 7570,
+  "mask": 128
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Throne Room",
+  "offset": 7571,
+  "mask": 64
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Storm Rider (Boss)",
+  "offset": 7572,
+  "mask": 4
+ },
+ {
+  "world": "Land of Dragons",
+  "name": "Xigbar (Data)",
+  "offset": 7897,
+  "mask": 128
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Cerberus (Boss)",
+  "offset": 7513,
+  "mask": 64
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Phil's Training",
+  "offset": 7507,
+  "mask": 4
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Demyx Fight",
+  "offset": 7515,
+  "mask": 8
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Pete Fight",
+  "offset": 7516,
+  "mask": 2
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Hydra (Boss)",
+  "offset": 7509,
+  "mask": 128
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Hades' Chamber Fight",
+  "offset": 7519,
+  "mask": 4
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Hades (Boss)",
+  "offset": 7514,
+  "mask": 32
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Zexion (AS)",
+  "offset": 7459,
+  "mask": 64
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Zexion (Data)",
+  "offset": 7462,
+  "mask": 4
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Pain and Panic Cup",
+  "offset": 7511,
+  "mask": 64
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Cerberus Cup",
+  "offset": 7512,
+  "mask": 1
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Titan Cup",
+  "offset": 7512,
+  "mask": 2
+ },
+ {
+  "world": "Olympus Coliseum",
+  "name": "Goddess of Fate Cup",
+  "offset": 7512,
+  "mask": 16
+ },
+ {
+  "world": "Port Royal",
+  "name": "1 Minute Isle Fight",
+  "offset": 7826,
+  "mask": 8
+ },
+ {
+  "world": "Port Royal",
+  "name": "Interceptor Medallion Fight",
+  "offset": 7827,
+  "mask": 1
+ },
+ {
+  "world": "Port Royal",
+  "name": "Interceptor Barrels",
+  "offset": 7827,
+  "mask": 4
+ },
+ {
+  "world": "Port Royal",
+  "name": "Barbossa (Boss)",
+  "offset": 7827,
+  "mask": 32
+ },
+ {
+  "world": "Port Royal",
+  "name": "Grim Reaper 1 (Boss)",
+  "offset": 7836,
+  "mask": 4
+ },
+ {
+  "world": "Port Royal",
+  "name": "1st Gambler Medallion",
+  "offset": 7829,
+  "mask": 4
+ },
+ {
+  "world": "Port Royal",
+  "name": "Grim Reaper 2 (Boss)",
+  "offset": 7829,
+  "mask": 128
+ },
+ {
+  "world": "Port Royal",
+  "name": "Luxord (Data)",
+  "offset": 7898,
+  "mask": 2
+ },
+ {
+  "world": "Pride Lands",
+  "name": "Met Simba",
+  "offset": 7634,
+  "mask": 2
+ },
+ {
+  "world": "Pride Lands",
+  "name": "Hyenas Fight (1st Visit)",
+  "offset": 7634,
+  "mask": 16
+ },
+ {
+  "world": "Pride Lands",
+  "name": "Scar (Boss)",
+  "offset": 7634,
+  "mask": 64
+ },
+ {
+  "world": "Pride Lands",
+  "name": "Hyenas Fight (2nd Visit)",
+  "offset": 7637,
+  "mask": 1
+ },
+ {
+  "world": "Pride Lands",
+  "name": "Ground Shaker (Boss)",
+  "offset": 7638,
+  "mask": 2
+ },
+ {
+  "world": "Pride Lands",
+  "name": "Saix (Data)",
+  "offset": 7898,
+  "mask": 1
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Part-Time Job",
+  "offset": 7382,
+  "mask": 32
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Twilight Thorn (Boss)",
+  "offset": 7385,
+  "mask": 16
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Hayner",
+  "offset": 7387,
+  "mask": 8
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Vivi",
+  "offset": 7387,
+  "mask": 64
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Axel 1 (Boss)",
+  "offset": 7388,
+  "mask": 1
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Beat Setzer",
+  "offset": 7388,
+  "mask": 64
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Mansion Computer Room",
+  "offset": 7393,
+  "mask": 2
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Axel 2 (Boss)",
+  "offset": 7393,
+  "mask": 16
+ },
+ {
+  "world": "Simulated Twilight Town",
+  "name": "Roxas (Data)",
+  "offset": 7897,
+  "mask": 64
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "Dataspace Fight",
+  "offset": 7857,
+  "mask": 64
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "Hostile Program (Boss)",
+  "offset": 7858,
+  "mask": 2
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "Solar Sailer",
+  "offset": 7859,
+  "mask": 128
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "Sark",
+  "offset": 7860,
+  "mask": 4
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "MCP (Boss)",
+  "offset": 7860,
+  "mask": 8
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "Larxene (AS)",
+  "offset": 7459,
+  "mask": 32
+ },
+ {
+  "world": "Space Paranoids",
+  "name": "Larxene (Data)",
+  "offset": 7463,
+  "mask": 1
+ },
+ {
+  "world": "Twilight Town",
+  "name": "Train Station Fight",
+  "offset": 7395,
+  "mask": 8
+ },
+ {
+  "world": "Twilight Town",
+  "name": "Mysterious Tower",
+  "offset": 7397,
+  "mask": 4
+ },
+ {
+  "world": "Twilight Town",
+  "name": "Sandlot Fight",
+  "offset": 7398,
+  "mask": 16
+ },
+ {
+  "world": "Twilight Town",
+  "name": "Mansion Gate Fight",
+  "offset": 7399,
+  "mask": 32
+ },
+ {
+  "world": "Twilight Town",
+  "name": "Betwixt And Between",
+  "offset": 7401,
+  "mask": 2
+ },
+ {
+  "world": "Twilight Town",
+  "name": "Axel (Data)",
+  "offset": 7403,
+  "mask": 16
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Roxas (Boss)",
+  "offset": 7888,
+  "mask": 128
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Xigbar (Boss)",
+  "offset": 7890,
+  "mask": 4
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Luxord (Boss)",
+  "offset": 7890,
+  "mask": 128
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Saix (Boss)",
+  "offset": 7891,
+  "mask": 4
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Xemnas 1 (Boss)",
+  "offset": 7892,
+  "mask": 16
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Xemnas (Data)",
+  "offset": 7898,
+  "mask": 4
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Armored Xemnas 1",
+  "offset": 7895,
+  "mask": 64
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Armored Xemnas 2",
+  "offset": 7896,
+  "mask": 1
+ },
+ {
+  "world": "The World That Never Was",
+  "name": "Xemnas (Final)",
+  "offset": 7897,
+  "mask": 1
+ }
+]
